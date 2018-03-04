@@ -1,0 +1,5 @@
+/lib/modules/2.6.21/kernel/drivers/net/wireless/rt2860v2_sta/rt2860v2_sta.ko: 
+/lib/modules/2.6.21/kernel/drivers/net/wireless/rt2860v2_ap/rt2860v2_ap.ko: 
+/lib/modules/2.6.21/kernel/drivers/usb/host/ohci-hcd.ko: 
+/lib/modules/2.6.21/kernel/crypto/pcbc.ko: 
+/lib/modules/2.6.21/kernel/drivers/usb/host/ehci-hcd.ko: 
